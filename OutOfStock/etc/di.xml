@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Catalog\Model\Layer">
+        <plugin name="nadeem_outofstock_catalog_model_layer" type="Nadeem\OutOfStock\Plugin\Catalog\Model\Layer" sortOrder="100" />
+    </type>
+</config>
