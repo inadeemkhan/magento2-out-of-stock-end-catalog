@@ -4,7 +4,7 @@ Magento2 extension to show OUT OF STOCK products in the last of list at product 
 
 ## Features:
 1. To show out of stock products in the last.
-2. Magento2 extension like a code functionality.
+2. Magento2 extension works like a core functionality.
 
 ## Installation
 
