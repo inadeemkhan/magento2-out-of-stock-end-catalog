@@ -1,0 +1,23 @@
+{
+    "name": "nadeem/module-out-of-stock",
+    "version": "1.0.0",
+    "description": "Magento2 extension to positions products out of stock last in the catalog listing.",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Nadeem Khan",
+            "email": "khannadeem243@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Nadeem\\OutOfStock\\": ""
+        }
+    }
+}

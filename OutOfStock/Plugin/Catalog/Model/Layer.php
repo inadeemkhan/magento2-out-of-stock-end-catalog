@@ -1,9 +1,9 @@
 <?php
-    namespace MateusSantin\OutOfStockEndCatalog\Plugin\Catalog\Model;
+    namespace Nadeem\OutOfStock\Plugin\Catalog\Model;
 
     /**
     * Class Layer
-    * @package MateusSantin\OutOfStockEndCatalog\Plugin\Catalog\Model\Layer
+    * @package Nadeem\OutOfStock\Plugin\Catalog\Model\Layer
     */
 
     class Layer {
