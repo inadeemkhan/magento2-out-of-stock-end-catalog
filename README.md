@@ -1,7 +1,4 @@
 # magento2-out-of-stock-end-catalog
-Free magento2 extension
-
-# magento2-API-call-with-SearchCriteria
 Magento2 extension to show OUT OF STOCK products in the last of list at product List Page. | Nadeem Khan
 
 
